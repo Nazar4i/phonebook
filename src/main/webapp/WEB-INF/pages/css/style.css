@@ -1,0 +1,42 @@
+/* Стили для формы логина*/
+.error {
+    /*padding: 15px;*/
+    /*margin-bottom: 20px;*/
+    /*border: 1px solid transparent;*/
+    /*border-radius: 4px;*/
+    color: #a94442;
+    padding-bottom: 2px;
+    margin: 0px;
+    /*background-color: #f2dede;*/
+    /*border-color: #ebccd1;*/
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    background: #fff;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border: 1px solid #000;
+}
+
+h3{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+h4{
+    margin: 10px 0px;
+    margin: 0px;
+}
+/* Конец стилей для формы логина*/
+
+
+/* Стили для таблицы */
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-4eph{background-color:#f9f9f9}
+/* Конец стилей для таблицы */
