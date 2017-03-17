@@ -11,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
-@ComponentScan("com.ua.kiev.makson")
+@ComponentScan("com.home.task")
 @EnableWebMvc
 public class AppConfig extends WebMvcConfigurerAdapter {
 
